@@ -23,30 +23,6 @@ const CUSTOMER_SITES = {
         detail: '',
         isAdult: false
     },
-    site1: {
-        api: 'https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json',
-        name: '1色',
-        detail: '',
-        isAdult: true
-    },
-    xingba: {
-        api: 'https://xingba222.com/api.php/provide/vod',
-        name: '色杏吧',
-        detail: '',
-        isAdult: true
-    },
-    site91: {
-        api: 'https://91jpzyw.com/api.php/provide/vod/at/json',
-        name: '色91',
-        detail: '',
-        isAdult: true
-    },
-    da: {
-        api: 'https://apidanaizi.com/api.php/provide/vod',
-        name: '色大',
-        detail: '',
-        isAdult: true
-    },
     tiantang: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at',
         name: '天堂',
