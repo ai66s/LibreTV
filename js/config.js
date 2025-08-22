@@ -27,21 +27,21 @@ const API_SITES = {
         name: '大',
         adult: true
     },
-    site1: {
+    site21: {
         api: 'https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json',
-        name: '1色',
+        name: '1',
         detail: '',
         isAdult: true
     },
     xingba: {
         api: 'https://xingba222.com/api.php/provide/vod',
-        name: '色杏吧',
+        name: '杏吧',
         detail: '',
         isAdult: true
     },
     site91: {
         api: 'https://91jpzyw.com/api.php/provide/vod/at/json',
-        name: '色91',
+        name: '91',
         detail: '',
         isAdult: true
     },
