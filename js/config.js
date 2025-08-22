@@ -30,13 +30,11 @@ const API_SITES = {
     xingba: {
         api: 'https://xingba222.com/api.php/provide/vod',
         name: '杏吧',
-        detail: '',
         adult: true
     },
     jp91: {
         api: 'https://91jpzyw.com/api.php/provide/vod/at/json',
         name: '91',
-        detail: '',
         adult: true
     }
     // ARCHIVE https://telegra.ph/APIs-08-12
