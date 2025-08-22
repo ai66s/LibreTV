@@ -30,17 +30,17 @@ const API_SITES = {
     site21: {
         api: 'https://hsckzy888.com/api.php/provide/vod/from/hsckm3u8/at/json',
         name: '1',
-        isAdult: true
+        adult: true
     },
     xingba: {
         api: 'https://xingba222.com/api.php/provide/vod',
         name: '杏吧',
-        isAdult: true
+        adult: true
     },
     site91: {
         api: 'https://91jpzyw.com/api.php/provide/vod/at/json',
         name: '91',
-        isAdult: true
+        adult: true
     },
     // ARCHIVE https://telegra.ph/APIs-08-12
 };
