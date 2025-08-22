@@ -1,10 +1,4 @@
 const CUSTOMER_SITES = {
-    qiqi: {
-        api: 'https://www.qiqidys.com/api.php/provide/vod',
-        name: '七七资源',
-        detail: '',
-        isAdult: false
-    },
     ikun: {
         api: 'https://ikunzyapi.com/api.php/provide/vod',
         name: 'IKUN',
@@ -56,12 +50,6 @@ const CUSTOMER_SITES = {
     tiantang: {
         api: 'http://caiji.dyttzyapi.com/api.php/provide/vod/from/dyttm3u8/at',
         name: '天堂',
-        detail: '',
-        isAdult: false
-    },
-    site2: {
-        api: 'http://caiji.dyttzyapi.com/api.php/provide/vod/from/dytt/at',
-        name: '2',
         detail: '',
         isAdult: false
     },
